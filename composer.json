@@ -1,0 +1,17 @@
+{
+    "name": "daygarcia/amazon-sp-api-laravel",
+    "description": "This package has made for laravel 8 and php 8. It's based on clousale/amazon-sp-api-php package with a little adjusts because the original repo doesnt receive any updates since a while. All credits reserved to clousale.",
+    "autoload": {
+        "psr-4": {
+            "Daygarcia\\AmazonSpApiLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dayanne Garcia",
+            "email": "48609156+DayGarcia@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
