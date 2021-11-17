@@ -1,4 +1,4 @@
-# THE REPO IS ORIGINALLY FROM CLOUSALE. [Original repo URL](https://github.com/clousale/amazon-sp-api-php/tree/master/docs/Api)
+# This repository is originally from clousale. [Original repo URL](https://github.com/clousale/amazon-sp-api-php/tree/master/docs/Api)
 
 I just have made this package because there is somethings to be needed in original and its not updated since a while. Anyway, I just made some adjusts and the credits are all to Clousale.
 
